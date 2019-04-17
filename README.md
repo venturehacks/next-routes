@@ -1,6 +1,6 @@
 # Dynamic Routes for Next.js
 
-**NOTICE: This is a fork of [fridays/next-routes](https://github.com/fridays/next-routes). This will continue to be maintained until [fridays/next-routes](https://github.com/fridays/next-routes) becomes maintained again. See https://github.com/fridays/next-routes/issues/244.**
+**NOTICE: This is a fork of [fridays/next-routes](https://github.com/fridays/next-routes). This be maintained for changes relevant to [Yolk's](https://github.com/Yolk-HQ/) interests, but we are not prioritizing community contributions at this time. When [Next.js introduces its own dynamic routing solution](https://github.com/zeit/next.js/issues/4989), this package will become obsolete. See also: https://github.com/fridays/next-routes/issues/244.**
 
 [![npm (scoped)](https://img.shields.io/npm/v/@yolkai/next-routes.svg)](https://www.npmjs.com/package/@yolkai/next-routes) [![Build Status](https://travis-ci.com/elliottsj/next-routes.svg?branch=master)](https://travis-ci.com/elliottsj/next-routes)
 
